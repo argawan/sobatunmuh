@@ -1,2 +1,6 @@
 # sobatunmuh
-Aplikasi Asisten Virtual Menggunakan Machine Learning Berbasis Mobile
+PENGEMBANGAN APLIKASI ASISTEN VIRTUAL MENGGUNAKAN MACHINE LEARNING BERBASIS MOBILE UNTUK MENINGKATKAN PELAYANAN KAMPUS DI UNIVERSITAS MUHAMMADIYAH BANGKA BELITUNG
+
+Pembimbing 1 : Eka Altiarika, S.Kom., M.Eng.
+Pembimbing 2 : Suprayuandi Pratama, M.Kom.
+Penguji : Yudistira Bagus Pratama, M.Kom.
